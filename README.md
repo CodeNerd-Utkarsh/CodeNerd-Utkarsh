@@ -1,8 +1,8 @@
 <h1 align="left">Hey there, I'm Utkarsh Singh 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HBaseDevelopers&label=views&color=0e75b6&style=flat" alt="utkarsh singh@h8ase2020" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeNerd-Utkarsh&label=views&color=0e75b6&style=flat" alt="utkarsh singh" /> </p>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/utkarsh-singh-hbase/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sonali singh" height="30" width="40" /></a><a href="https://github.com/HBaseDevelopers/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Sonali-Learntoshine" height="30" width="40" /></a><a href="https://www.hackerrank.com/HBase_Skills" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Utkarsh singh@h8ase2020" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/utkarsh-singh-hbase/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Utkarsh singh" height="30" width="40" /></a><a href="https://github.com/Codenerd-Utkarsh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Sonali-Learntoshine" height="30" width="40" /></a><a href="https://www.hackerrank.com/HBase_Skills" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Utkarsh Singh" height="30" width="40" /></a>
   
 </p>
 
