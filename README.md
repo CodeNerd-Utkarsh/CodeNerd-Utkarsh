@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeNerd-Utkarsh&label=views&color=0e75b6&style=flat" alt="utkarsh singh" /> </p>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/utkarsh-singh-hbase/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Utkarsh singh" height="30" width="40" /></a><a href="https://github.com/CodeNerd-Utkarsh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="CodeNerd-Utkarsh" height="30" width="40" /></a><a href="https://www.hackerrank.com/HBase_Skills" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Utkarsh Singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/utkarsh-singh-hbase/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Utkarsh singh" height="30" width="40" /></a><a href="https://github.com/CodeNerd-Utkarsh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="CodeNerd-Utkarsh" height="30" width="40" /></a><a href="https://www.hackerrank.com/Utkasrh_Singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Utkarsh Singh" height="30" width="40" /></a>
   
 </p>
 
