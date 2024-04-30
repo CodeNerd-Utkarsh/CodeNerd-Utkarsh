@@ -6,9 +6,9 @@
   
 </p>
 
-- 🔭 I’m currently looking **for work as an intern in web development.**
-- 🌱 I’m currently learning **Django and fullStack development**
-- 📫 How to reach me: **singhutkars2721@outlook.com**
+- 🔭 I’m currently looking **for work as a beginner in web development.**
+- 🌱 I’m currently working **React and full stack development**
+- 📫 How to reach me: **singhutkars2721@gmail.com**
 - ⚡ I am a **Code Blooded Developer who is always keen to learn new things because learning never ends.**
 
 <p>
