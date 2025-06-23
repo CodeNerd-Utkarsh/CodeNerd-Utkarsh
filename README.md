@@ -1,20 +1,48 @@
-<h1 align="left">Hey there, I'm Utkarsh Singh 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeNerd-Utkarsh&label=views&color=0e75b6&style=flat" alt="utkarsh singh" /> </p>
-
+<h1 align="left">Hi, I'm Utkarsh Singh 👋</h1>
 <p align="left">
-<a href="https://www.linkedin.com/in/utkarsh-singh-hbase/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Utkarsh singh" height="30" width="40" /></a><a href="https://github.com/CodeNerd-Utkarsh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="CodeNerd-Utkarsh" height="30" width="40" /></a><a href="https://www.hackerrank.com/Utkasrh_Singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Utkarsh Singh" height="30" width="40" /></a>
-  
+  <img src="https://komarev.com/ghpvc/?username=CodeNerd-Utkarsh&label=Profile+Views&color=0077B6" alt="Utkarsh Singh Profile Views" />
 </p>
 
-- 🔭 I’m currently looking **for work as a beginner in web development.**
-- 🌱 I’m currently working **React and full stack development**
-- 📫 How to reach me: **singhutkars2721@gmail.com**
-- ⚡ I am a **Code Blooded Developer who is always keen to learn new things because learning never ends.**
+<p align="left">
+  <a href="https://www.linkedin.com/in/utkarsh-code-nerd/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/CodeNerd-Utkarsh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/Utkasrh_Singh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+</p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeNerd-Utkarsh&amp;theme=dark&amp;hide_langs_below=1" style="max-width:100%;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeNerd-Utkarsh&amp;show_icons=true&amp;theme=dracula&amp;line_height=27" style="max-width:100%;" alt="utkarsh singh" /></p>
+---
 
+🧑‍💻 **About Me**
 
-<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
+- 🔍 Actively exploring new opportunities in **frontend** and **full-stack development**
+- 💡 Building real-world apps with **React.js**, **Next.js**, **Node.js**, and **Express.js**
+- 🚀 Working on performance-driven UIs and meaningful user experiences
+- 🧪 Advocate of clean code, component architecture, and **testing best practices**
+- 📬 Reach me at: **utkarsh020.dev@gmail.com**
+
+---
+
+🌟 **Quick Highlights**
+
+- 🎯 2+ years of hands-on experience in modern web stacks
+- 🧱 Skilled in building scalable platforms with React, Node, and TypeScript
+- ⚙️ Proficient in Git, API integration, CI pipelines, and performance optimization
+- 🛠 Creator of interviewproo.app and dollar1.app (check pinned repos!)
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNerd-Utkarsh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeNerd-Utkarsh&show_icons=true&theme=tokyonight&line_height=24" alt="GitHub Stats" />
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting — feel free to star or fork any project that resonates with you!</h3>
