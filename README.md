@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/utkarsh-code-nerd/" target="_blank">
+  <a href="https://www.linkedin.com/in/utkarsh-dot-dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://github.com/CodeNerd-Utkarsh" target="_blank">
@@ -32,17 +32,6 @@
 - 🎯 3+ years of hands-on experience in modern web stacks
 - 🧱 Skilled in building scalable platforms with React, Node, and TypeScript
 - ⚙️ Proficient in Git, API integration, CI pipelines, and performance optimization
-- 🛠 Creator of interviewproo.app and dollar1.app (check pinned repos!)
 
 ---
 
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNerd-Utkarsh&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeNerd-Utkarsh&show_icons=true&theme=tokyonight&line_height=24" alt="GitHub Stats" />
-</p>
-
----
-
-<h3 align="center">✨ Thanks for visiting — feel free to star or fork any project that resonates with you!</h3>
