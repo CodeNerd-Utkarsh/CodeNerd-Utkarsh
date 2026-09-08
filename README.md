@@ -29,7 +29,7 @@
 
 🌟 **Quick Highlights**
 
-- 🎯 2+ years of hands-on experience in modern web stacks
+- 🎯 3+ years of hands-on experience in modern web stacks
 - 🧱 Skilled in building scalable platforms with React, Node, and TypeScript
 - ⚙️ Proficient in Git, API integration, CI pipelines, and performance optimization
 - 🛠 Creator of interviewproo.app and dollar1.app (check pinned repos!)
